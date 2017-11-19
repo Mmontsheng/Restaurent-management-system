@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="semesterProject/SqliteConnection.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="image"/>
+	<classpathentry kind="lib" path="Resourses/rs2xml.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.14.2.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.15.0.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.15.1.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.7.15-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.8.10.1.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.8.10.2.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.8.11.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.8.5-pre1.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.8.6.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.8.7.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="Resourses/sqlite-jdbc-3.14.2.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/MAOTO M/Desktop/JavaPrograms/BOP311SemesterProject/Resourses/jcalendar-1.4/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="Resourses/JTimeChooser_0.1.0.jar"/>
+	<classpathentry kind="lib" path="Resourses/datetimepicker3.3.jar"/>
+	<classpathentry kind="lib" path="Resourses/jcalendarbutton-1.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAOTO M/Desktop/JavaPrograms/BOP311SemesterProject/Resourses/jcalendar-1.4/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAOTO M/Desktop/JavaPrograms/BOP311SemesterProject/Resourses/jcalendar-1.4/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAOTO M/Desktop/JavaPrograms/BOP311SemesterProject/Resourses/jcalendar-1.4/lib/junit-4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
